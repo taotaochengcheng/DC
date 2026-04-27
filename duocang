@@ -1,1 +1,12 @@
-
+{
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/taotaochengcheng/KG/refs/heads/main/KG.json",
+      "name": "闪修影院"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/taotaochengcheng/shaoer/refs/heads/main/shaoer",
+      "name": "闪修少儿"
+    }
+  ]
+}
